@@ -1,4 +1,6 @@
 import React from "react";
+
+//import Daily from "./components/api/Daily";
 import "./App.css";
 
 class App extends React.Component {
@@ -10,6 +12,7 @@ class App extends React.Component {
         </header>
         <section>
           <h3>This is Main</h3>
+          {/*<Daily />*/}
         </section>
       </div>
     );
