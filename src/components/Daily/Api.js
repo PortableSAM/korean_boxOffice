@@ -62,7 +62,7 @@ export default class Daily extends React.Component {
                   Open={movie.openDt}
                   rank={movie.rank}
                   people={movie.audiAcc}
-                  point={movie.audiChange}
+                  point={movie.showCnt}
                 />
               ))}
             </div>
