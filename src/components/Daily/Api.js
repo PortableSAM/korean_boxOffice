@@ -51,7 +51,9 @@ export default class Daily extends React.Component {
           </div>
         ) : (
           <div>
-            <h3>{daily.boxofficeType}</h3>
+            <div className="type">
+              <h3>{daily.boxofficeType}</h3>
+            </div>
             <div className="movies">
               {list.map(movie => (
                 <DailyList
