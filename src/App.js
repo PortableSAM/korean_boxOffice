@@ -1,7 +1,7 @@
 import React from "react";
 
-//import Daily from "./components/api/Daily";
 import "./App.css";
+import Daily from "./components/Daily/Api";
 
 class App extends React.Component {
   render() {
@@ -11,8 +11,7 @@ class App extends React.Component {
           <h1>Hello World</h1>
         </header>
         <section>
-          <h3>This is Main</h3>
-          {/*<Daily />*/}
+          <Daily />
         </section>
       </div>
     );
