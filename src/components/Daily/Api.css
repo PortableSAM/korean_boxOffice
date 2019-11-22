@@ -7,6 +7,16 @@
   background: #b7ceff;
 }
 
+.loader {
+  min-width: 97.8vw;
+  min-height: 830px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 900;
+}
+
+/* Daily List CSS */
 .type {
   margin: 20px;
   padding: 5px;
