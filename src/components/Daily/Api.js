@@ -12,7 +12,7 @@ const yesterDay = moment()
 console.log(yesterDay);
 
 const Daily_API =
-  "http://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/";
+  "https://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/";
 
 export default class Daily extends React.Component {
   state = {
