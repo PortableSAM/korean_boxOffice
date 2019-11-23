@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/korean_boxOffice/precache-manifest.bd92af73bedde1557a3c0e639fef921c.js"
+  "/korean_boxOffice/precache-manifest.5efe639460fc97575364564fad33a8b0.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/korean_boxOffice/static/css/main.02233415.chunk.css",
-    "main.js": "/korean_boxOffice/static/js/main.7272eafb.chunk.js",
-    "main.js.map": "/korean_boxOffice/static/js/main.7272eafb.chunk.js.map",
+    "main.js": "/korean_boxOffice/static/js/main.9b54cad2.chunk.js",
+    "main.js.map": "/korean_boxOffice/static/js/main.9b54cad2.chunk.js.map",
     "runtime-main.js": "/korean_boxOffice/static/js/runtime-main.b1096df7.js",
     "runtime-main.js.map": "/korean_boxOffice/static/js/runtime-main.b1096df7.js.map",
     "static/js/2.37e40c1c.chunk.js": "/korean_boxOffice/static/js/2.37e40c1c.chunk.js",
     "static/js/2.37e40c1c.chunk.js.map": "/korean_boxOffice/static/js/2.37e40c1c.chunk.js.map",
     "index.html": "/korean_boxOffice/index.html",
-    "precache-manifest.bd92af73bedde1557a3c0e639fef921c.js": "/korean_boxOffice/precache-manifest.bd92af73bedde1557a3c0e639fef921c.js",
+    "precache-manifest.5efe639460fc97575364564fad33a8b0.js": "/korean_boxOffice/precache-manifest.5efe639460fc97575364564fad33a8b0.js",
     "service-worker.js": "/korean_boxOffice/service-worker.js",
     "static/css/main.02233415.chunk.css.map": "/korean_boxOffice/static/css/main.02233415.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.b1096df7.js",
     "static/js/2.37e40c1c.chunk.js",
     "static/css/main.02233415.chunk.css",
-    "static/js/main.7272eafb.chunk.js"
+    "static/js/main.9b54cad2.chunk.js"
   ]
 }

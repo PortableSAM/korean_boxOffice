@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d88f45e441b4fd90eff26c0ddcbfc83",
+    "revision": "02437010885d289d7a64d89aaa502f65",
     "url": "/korean_boxOffice/index.html"
   },
   {
-    "revision": "12829ff5d84c444724f6",
+    "revision": "6487d5933eae319b3a26",
     "url": "/korean_boxOffice/static/css/main.02233415.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/korean_boxOffice/static/js/2.37e40c1c.chunk.js"
   },
   {
-    "revision": "12829ff5d84c444724f6",
-    "url": "/korean_boxOffice/static/js/main.7272eafb.chunk.js"
+    "revision": "6487d5933eae319b3a26",
+    "url": "/korean_boxOffice/static/js/main.9b54cad2.chunk.js"
   },
   {
     "revision": "918e0ce4fbc4ba021bdc",
