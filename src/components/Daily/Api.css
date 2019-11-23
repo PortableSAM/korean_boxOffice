@@ -67,3 +67,8 @@ h4 {
   display: flex;
   justify-content: left;
 }
+
+.data a {
+  text-decoration: none;
+  color: black;
+}
