@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/korean_boxOffice/static/css/main.8dbf6b7e.chunk.css",
-    "main.js": "/korean_boxOffice/static/js/main.ba0b6e70.chunk.js",
-    "main.js.map": "/korean_boxOffice/static/js/main.ba0b6e70.chunk.js.map",
+    "main.css": "/korean_boxOffice/static/css/main.7690bf72.chunk.css",
+    "main.js": "/korean_boxOffice/static/js/main.6215854b.chunk.js",
+    "main.js.map": "/korean_boxOffice/static/js/main.6215854b.chunk.js.map",
     "runtime-main.js": "/korean_boxOffice/static/js/runtime-main.b1096df7.js",
     "runtime-main.js.map": "/korean_boxOffice/static/js/runtime-main.b1096df7.js.map",
-    "static/js/2.37e40c1c.chunk.js": "/korean_boxOffice/static/js/2.37e40c1c.chunk.js",
-    "static/js/2.37e40c1c.chunk.js.map": "/korean_boxOffice/static/js/2.37e40c1c.chunk.js.map",
+    "static/js/2.f1ddc0ee.chunk.js": "/korean_boxOffice/static/js/2.f1ddc0ee.chunk.js",
+    "static/js/2.f1ddc0ee.chunk.js.map": "/korean_boxOffice/static/js/2.f1ddc0ee.chunk.js.map",
     "index.html": "/korean_boxOffice/index.html",
-    "precache-manifest.c8aeb2f5c32fe31ac662d62124325b54.js": "/korean_boxOffice/precache-manifest.c8aeb2f5c32fe31ac662d62124325b54.js",
+    "precache-manifest.aa200d4fb5f3ada0f3735cf87b6a1c22.js": "/korean_boxOffice/precache-manifest.aa200d4fb5f3ada0f3735cf87b6a1c22.js",
     "service-worker.js": "/korean_boxOffice/service-worker.js",
-    "static/css/main.8dbf6b7e.chunk.css.map": "/korean_boxOffice/static/css/main.8dbf6b7e.chunk.css.map"
+    "static/css/main.7690bf72.chunk.css.map": "/korean_boxOffice/static/css/main.7690bf72.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.b1096df7.js",
-    "static/js/2.37e40c1c.chunk.js",
-    "static/css/main.8dbf6b7e.chunk.css",
-    "static/js/main.ba0b6e70.chunk.js"
+    "static/js/2.f1ddc0ee.chunk.js",
+    "static/css/main.7690bf72.chunk.css",
+    "static/js/main.6215854b.chunk.js"
   ]
 }
